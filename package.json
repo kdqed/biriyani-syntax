@@ -1,0 +1,15 @@
+{
+  "name": "biriyani-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Pitch black theme done right",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/thekarthik/biriyani-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
